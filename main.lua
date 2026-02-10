@@ -1,11 +1,8 @@
 -- Mortis NVM HACK v3.3 - main.lua
 -- Точка входа: подгружает монолитный runtime.lua с GitHub
 
-local HttpService = game:GetService("HttpService")
-
--- ЗАМЕНИ ЭТУ СТРОКУ НА СВОЙ RAW-URL ДО runtime.lua
--- Пример: https://raw.githubusercontent.com/<USER>/Tower-battels-Mortis-Hack/main/runtime.lua
-local RUNTIME_URL = "https://raw.githubusercontent.com/<USER>/Tower-battels-Mortis-Hack/main/runtime.lua"
+-- ЗАМЕНИТЬ НЕ НУЖНО: уже стоит актуальный RAW-URL для этого репозитория
+local RUNTIME_URL = "https://raw.githubusercontent.com/MortisClub/Tower-battels-Mortis-Hack/main/runtime.lua"
 
 local function safeHttpGet(url)
     local ok, result = pcall(game.HttpGet, game, url)
