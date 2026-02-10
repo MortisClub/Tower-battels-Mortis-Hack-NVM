@@ -16,7 +16,7 @@
 
   <!-- ПРЕВЬЮ ИНТЕРФЕЙСА / ГЕЙМПЛЕЯ -->
   <!-- ЗАМЕНИ ССЫЛКИ НА СВОИ СКРИНЫ -->
-  <img src="https://i.ibb.co/JjvKcCY3/fmycru3m.jpg" alt="Mortis NVM HACK Main Menu" width="480">
+  <img src="https://i.ibb.co/KcWZGRWR/7b93iz2z.jpg" alt="Mortis NVM HACK Main Menu" width="480">
 
 </div>
 
@@ -24,17 +24,17 @@
 
 ### Галерея
 
-- **Cheats‑вкладка (Auto / Buff / Cash)**  
-  <img src="https://i.ibb.co/p6QpzbRQ/kg0cetni.jpg" alt="Mortis NVM HACK Cheats Tab" width="480">
+-   
+  <img src="https://i.ibb.co/nsSdQKs9/s7jkl5tr.jpg" alt="Mortis NVM HACK Cheats Tab" width="480">
 
-- **Visuals‑вкладка (молнии и частицы)**  
+- 
   <img src="https://i.ibb.co/CpsWZKDD/mee4kqj1.jpg" alt="Mortis NVM HACK Visuals Tab" width="480">
 
-- **Фарм кеша x9999 / волна**  
-  <img src="https://i.ibb.co/HTQDqTTf/0q3kjg7s.jpg" alt="Mortis NVM HACK Cash Farm" width="480">
+- 
+  <img src="https://i.ibb.co/q3hx6vLt/990noujc.jpg" alt="Mortis NVM HACK Cash Farm" width="480">
 
-- **Сетап с Max Range + Super Fire**  
-  <img src="https://i.ibb.co/Kp5LkHbH/owshhvcz.jpg" alt="Mortis NVM HACK Max Range & Super Fire" width="480">
+-   
+  <img src="https://i.ibb.co/PzM6K3zM/fpgu4cas.jpg" alt="Mortis NVM HACK Max Range & Super Fire" width="480">
 
 > Заменишь ссылки на свои реальные скриншоты с Imgur/ibb.co.
 
@@ -116,7 +116,7 @@
 - **`runtime.lua`**  
   - Подключает Rayfield через `https://sirius.menu/rayfield`.  
   - Создаёт окно **Mortis NVM HACK v3.3** с сохранением конфигов в папку `MortisNVMHack` (`v3_3_Config`).  
-  - Вешает хоткей **F1** на скрытие/показ всех Rayfield‑GUI в `PlayerGui`.  
+  - Вешает хоткей **K** на скрытие/показ всех Rayfield‑GUI в `PlayerGui`.  
   - Реализует все функции из блока **Основные функции** (Cheats + Visuals).  
   - Чистит коннекты/потоки при удалении Rayfield‑интерфейса из `CoreGui`.  
 
