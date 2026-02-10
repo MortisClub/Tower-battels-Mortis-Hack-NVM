@@ -16,7 +16,7 @@
 
   <!-- ПРЕВЬЮ ИНТЕРФЕЙСА / ГЕЙМПЛЕЯ -->
   <!-- ЗАМЕНИ ССЫЛКИ НА СВОИ СКРИНЫ -->
-  <img src="https://i.ibb.co/KcWZGRWR/7b93iz2z.jpg" alt="Mortis NVM HACK Main Menu" width="480">
+  <img src="https://i.ibb.co/1J7G0cjJ/v942u6a3.jpg" alt="Mortis NVM HACK Main Menu" width="480">
 
 </div>
 
