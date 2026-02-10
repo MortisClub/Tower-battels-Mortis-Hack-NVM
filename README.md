@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- БАННЕР / ЛОГО -->
   <img src="https://i.ibb.co/vx5yR1Kd/uvsoprkl.png" alt="Mortis Hack Banner" width="720">
 
   <br><br>
@@ -14,8 +13,6 @@
   <b>Mortis NVM HACK v3.3 — Tower Battles Rayfield GUI</b>
   <p>Версия с автопрокачкой, фри‑апгрейдами, бустами рейнджа/дамага, фармом кеша и визуальным «перегрузом» молний.</p>
 
-  <!-- ПРЕВЬЮ ИНТЕРФЕЙСА / ГЕЙМПЛЕЯ -->
-  <!-- ЗАМЕНИ ССЫЛКИ НА СВОИ СКРИНЫ -->
   <img src="https://i.ibb.co/1J7G0cjJ/v942u6a3.jpg" alt="Mortis NVM HACK Main Menu" width="480">
 
 </div>
@@ -36,7 +33,7 @@
 -   
   <img src="https://i.ibb.co/PzM6K3zM/fpgu4cas.jpg" alt="Mortis NVM HACK Max Range & Super Fire" width="480">
 
-> Заменишь ссылки на свои реальные скриншоты с Imgur/ibb.co.
+
 
 ---
 
