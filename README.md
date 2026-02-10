@@ -93,10 +93,8 @@
 - **1. Запуск через экзекьютор (Synapse / Delta / Fluxus / Xeno / др.)**
 
   ```lua
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/<USER>/Tower-battels-Mortis-Hack/main/main.lua"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MortisClub/Tower-battels-Mortis-Hack/main/main.lua"))()
   ```
-
-  ЗАМЕНИ `<USER>` на свой GitHub‑логин, если репозиторий публичный.
 
 - **2. Дождись загрузки Rayfield‑GUI**  
   Появится окно **Mortis NVM HACK v3.3** с вкладками:
